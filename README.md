@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Nicolle!!</h1>
-<h3 align="center">Una apasionada desarrolladora full stack de Colombia</h3>
+<h3 align="center">Desarrolladora Full-Stack comprometida, responsable y apasionada por la creación de soluciones tecnológicas centradas en el usuario. Con experiencia en JavaScript, React, SQL-Alchemy y SCRUM, me especializo en enfrentar y resolver los desafíos del desarrollo de software moderno. Mi enfoque se basa en el aprendizaje constante, la mejora continua y la entrega de proyectos de alta calidad. Siempre busco aportar valor al equipo con mi capacidad para trabajar bajo presión y mi dedicación al éxito del proyecto.</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
