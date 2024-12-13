@@ -7,8 +7,8 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolle-rodriguez-layton/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nicolle Rodríguez Laytón" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/nicolle-rodríguez/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nicolle Rodríguez" height="30" width="30" />
   </a>
 </p>
 
